@@ -39,7 +39,11 @@ function Footer() {
             size='medium'
             sx={{
                 marginTop:'1.5em',
-                padding:'0.75em'
+                padding:'0.75em',
+                background:'#DC4D01',
+                "&:hover":{
+                  background:'orange'
+                }
             }}
             
             >
@@ -47,7 +51,8 @@ function Footer() {
                to='./contact'
                 style={{
                     textDecoration:'none',
-                    color:'white'
+                    color:'white',
+                    
                 }}
                >
                 Let's Connect

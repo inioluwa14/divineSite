@@ -1,6 +1,6 @@
 import { CssBaseline } from '@mui/material'
 import React from 'react'
-import Hero from '../assets/mitech-landing-main-slider-bg.webp'
+import Hero from '../assets/orange-bg1.jpg'
 import Navbar from '../components/Navbar';
 import Header from '../layout/Header';
 // import CardHero from '../components/CardHero';

@@ -97,7 +97,7 @@ function Navbar() {
           }}
         >
           
-            <AcUnitIcon sx={{ transform: "scale(1.75)", marginTop:'0.5em' }} />
+            <AcUnitIcon sx={{ transform: "scale(1.75)", marginTop:'0.5em', color:'orange' }} />
             
             <Typography variant='h4' sx={{ fontSize: "2rem", marginLeft:'1.5em'}}>
               <Link

@@ -152,7 +152,11 @@ function Header() {
               variant='contained'
               sx={{
                 marginTop:'2em',
-                width:'30%'
+                width:'30%',
+                background:'orange',
+                "&:hover":{
+                  background:'transparent'
+                }
               }}
               >Check Out</Button>
             </Grid>

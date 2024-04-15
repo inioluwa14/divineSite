@@ -97,7 +97,9 @@ function SectionOne() {
                                 <Button
                                 variant="outlined" size="medium"
                                 sx={{
-                                    margin:'0 auto'
+                                    margin:'0 auto',
+                                    border:'1px solid orange',
+                                    color:'orange'
                                 }}
                                 >
                                     Demo
